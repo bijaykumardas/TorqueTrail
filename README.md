@@ -20,6 +20,8 @@ All about accessories that are important and available for diffenet bikes.
 Access valuable maintenance tips to keep bikes in top condition.
 - **About Us**:
 Learn about the TorqueTrail platform and its mission.
+- **Admin Section**:
+A dedicated admin page allows administrators to log in and perform operations on all data in the database.
 
 ## Technologies Used
 - HTML and CSS for the frontend.
